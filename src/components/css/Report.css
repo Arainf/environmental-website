@@ -1,0 +1,16 @@
+.reportButton>button {
+  position: absolute;
+  height: 150px;
+  width: 30px;
+  top: 25%;
+  right: 0%;
+  border-radius: 5px 0px 0px 5px;
+  word-wrap: break-word;
+}
+
+.text {
+  color: aliceblue;
+  font-size: 8px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
